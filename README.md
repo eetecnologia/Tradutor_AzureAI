@@ -1,4 +1,4 @@
-# 📄 Manual Simplificado: Tradutor de Artigos Técnicos com Azure AI Translator
+# Manual Simplificado: Tradutor de Artigos Técnicos com Azure AI Translator
 
 Este manual fornece um guia passo a passo para criar e utilizar o serviço Azure AI Translator, focado na tradução de artigos técnicos e documentos complexos (como PDF, DOCX, XLSX) em lote, preservando o layout original.
 
