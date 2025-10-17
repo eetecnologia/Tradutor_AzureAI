@@ -157,3 +157,18 @@ if __name__ == "__main__":
     # 1. Faça o upload dos seus artigos (PDF, DOCX) para o contêiner 'source-documents'.
     # 2. Execute o script.
     run_document_translation()
+
+▶️ 6. Como Usar
+Faça o Upload do Artigo: Coloque seus artigos técnicos no contêiner source-documents.
+
+Faça o Upload do Glossário: Coloque o arquivo glossary.tsv no contêiner translated-documents.
+
+Execute o Script: No seu terminal local, execute o arquivo Python:
+
+Bash
+
+python translate.py
+Verifique os Resultados: O script irá confirmar o uso do glossário e, ao finalizar, os arquivos traduzidos estarão no contêiner translated-documents.
+
+Contribuições
+Sinta-se à vontade para abrir Issues ou enviar Pull Requests para melhorar este manual ou adicionar exemplos em outras linguagens (C#, Java, etc.).
