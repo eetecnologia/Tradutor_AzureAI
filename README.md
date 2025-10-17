@@ -158,7 +158,7 @@ if __name__ == "__main__":
     # 2. Execute o script.
     run_document_translation()
 
-▶️ 6. Como Usar
+## ▶️ 6. Como Usar
 Faça o Upload do Artigo: Coloque seus artigos técnicos no contêiner source-documents.
 
 Faça o Upload do Glossário: Coloque o arquivo glossary.tsv no contêiner translated-documents.
